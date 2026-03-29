@@ -35,12 +35,9 @@ The project includes a suite of unit and functional tests to ensure the correctn
 All tests in the suite are currently passing.
 
 ```
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time:  11.479 s
-[INFO] Finished at: 2026-03-29T19:06:24Z
-[INFO] ------------------------------------------------------------------------
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0
 ```
 
 ## Organism Properties
